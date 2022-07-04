@@ -1,0 +1,9 @@
+{
+  "id": "e8ffec8b-660d-48b1-ad4c-dbcc4b270e24",
+  "alias": "HelloWorldLibrary",
+  "componentType": "Library",
+
+  
+  "version": "*",
+  "manifestVersion": 2
+}
